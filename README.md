@@ -32,6 +32,4 @@ $ rails s
 
 Visit to `localhost:3000`
 
-Else visit to: https://todolistrails5.herokuapp.com/
-
 You can add, modify or remove tasks and items in the list.
