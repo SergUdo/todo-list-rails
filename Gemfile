@@ -7,6 +7,7 @@ end
 
 gem 'rails', '~> 6.0'
 gem 'puma'
+gem 'webpacker'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
