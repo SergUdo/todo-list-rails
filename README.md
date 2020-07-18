@@ -24,6 +24,12 @@ Run database migrations
 $ rails db:migrate
 ```
 
+Run tests
+
+```
+rails test
+```
+
 For Rails server starting, type
 
 ```
