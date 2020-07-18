@@ -2,7 +2,7 @@
 
 ## Description
 
-The Todo list was created using Rails 5 and deployed on [Heroku](https://todolistrails5.herokuapp.com/).
+The Todo list was created using versions Rails 5 and 6 and deployed on [Heroku](https://todolistrails5.herokuapp.com/).
 
 ## Launching
 
